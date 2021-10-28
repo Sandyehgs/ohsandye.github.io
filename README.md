@@ -1,2 +1,2 @@
-# ohsandye.github.io
+# ohsandye
 MyPage
