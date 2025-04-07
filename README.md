@@ -1,2 +1,0 @@
-# ohsandye
-MyPage
